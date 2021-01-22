@@ -1,0 +1,12 @@
+{
+  "name": "BAAJ-POLICE-APP-1",
+  "displayName": "BAAJ-POLICE-APP-1",
+  "expo": {
+    "name": "BAAJ-POLICE-APP-1",
+    "slug": "BAAJ-POLICE-APP-1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
